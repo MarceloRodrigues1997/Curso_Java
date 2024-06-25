@@ -8,6 +8,6 @@ public class Main {
         int resultant = num2 * num1;
 
         System.out.println(resultant);
-        System.out.println("Commit Testado");
+        System.out.println("Commit testado com sucesso...");
     }
 }
